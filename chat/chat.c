@@ -104,7 +104,7 @@ static const char rcsid[] = "$Id: chat.c,v 1.30 2004/01/17 05:47:55 carlsonj Exp
 #include <syslog.h>
 #ifdef ANDROID_CHANGES
 #include <cutils/log.h>
-#define LOG_TAG "RIL_CHAT"
+//#define LOG_TAG "RIL_CHAT"
 #endif
 
 
